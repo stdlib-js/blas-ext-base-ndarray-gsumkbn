@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-05)
+## Unreleased (2026-05-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`418aa38`](https://github.com/stdlib-js/stdlib/commit/418aa388dce65f953db44a6e89062b902967a624) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`0e5ccc5`](https://github.com/stdlib-js/stdlib/commit/0e5ccc5a2d4faa9df26004b4931020c4c38eff5e) - **bench:** use string interpolation in `blas/ext/base/ndarray/gsumkbn` [(#10353)](https://github.com/stdlib-js/stdlib/pull/10353) _(by AyushiJain18270)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   AyushiJain18270
 
 </section>
